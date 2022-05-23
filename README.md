@@ -1,4 +1,4 @@
-# Aqui temos uma pesquisa entre 1000 habitantes de uma região, e foi coletado os seguintes dados:
+# Aqui temos uma pesquisa entre 1000 habitantes de uma região, e foi coletado as seguintes informações:
 - GENERO
 - IDADE
 - ALTURA
@@ -46,3 +46,6 @@
 				IMPRIMA  "percentual de pessoas com idade entre 18 e 35 anos" + IDADES	
 
     FIM
+    
+![fluxograma](https://user-images.githubusercontent.com/104045633/169899613-4b8aeb79-f242-4356-8da7-f30bce5f9545.png)
+
